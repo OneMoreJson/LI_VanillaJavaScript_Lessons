@@ -1,7 +1,5 @@
 # Study JavaScript
 
-# Study JavaScript
-
 ## Admin 
 
 ### 2020 12 25 : 1251 || Admin Org
