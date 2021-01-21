@@ -1,5 +1,8 @@
 # Study JavaScript
 
+### 2021 01 20 : 1800 || New Course
+Switched folders from Udemy folder.  Uploaded it to GI.  
+
 ## Admin 
 
 ### 2020 12 25 : 1251 || Admin Org
