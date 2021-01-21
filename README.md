@@ -5,6 +5,9 @@
 ### 2021 01 20 : 1800 || New Course
 Switched folders from Udemy folder.  Uploaded it to GI.  
 
+#### 1830 || Ch 02
+Going through the basics.
+
 -----------------------------------------------------------------------------
 
 ## Admin 
