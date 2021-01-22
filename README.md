@@ -1,5 +1,10 @@
 # Study JavaScript
 
+### 2021 01 21 : 1700 || UD 01 CH 03
+Completed chapter 02 and moved on the next.  Intro and prep into the DOM.  I remember most of the stuff from Ch 02 as it worked with the console log.  However, learning more about the Window feature let me understand how hackers can find more information about those who visit their page… and if needed run script to break into someones vulnerable computer.  Chapter three works with the DOM.  I will probably take two days to complete this.  Afterwards, I’ll need to practice what the instructor is showing.  This will slow down my progress, yet it is critical.  I’m already planning to do LI JAVA courses after this while still designing my own site (blog and learn).  
+
+-----------------------------------------------------------------------------
+
 # Ud 01 Modern JavaScript From The Beginning
 
 ### 2021 01 20 : 1800 || New Course
