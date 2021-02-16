@@ -1,5 +1,10 @@
 # Study JavaScript
 
+### 2021 02 15 : 1900 || UD 01 ReCh02
+I went through chapter 2 and starting 3 again.  I know this but I don’t practice it.  I needed to actually get muscle memory build stuff.  I actually spent the first time listening and watching.  Now, I’m taking the time to actually build what the instructor is talking about.  This is important because sometimes you need to pause the video and experiment a few things.  When I do this, it really feels like it becomes apart of who I am and what I know.  I think all instructors should allow for this “light bulb” moments in learning.  
+
+-----------------------------------------------------------------------------
+
 ### 2021 02 13 : 0900 || UD 01 CH 04
 Working on creating a task list.  I’m making errors and need to do this practically while watching the instructor.  Otherwise, this isn’t really becoming a skill.  I get a general knowledge about the subject, but I am not creating a skill.  In fact, I don’t see a lot of instructors out there providing the concepts of what we need to do, then showing that concept, and finally providing practical examples.  I think that might way to hard and time consuming, but if I want really develop the skill I need the long form training.  
 
