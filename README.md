@@ -1,5 +1,10 @@
 # Study JavaScript
 
+### 2021 02 16 : 1200 || UD 01 ReCh03
+Completed the Chapter 03 again.  I am ready to do the ToDo project.  However, I need to focus on school work before I continue.  
+
+-----------------------------------------------------------------------------
+
 ### 2021 02 15 : 1900 || UD 01 ReCh02
 I went through chapter 2 and starting 3 again.  I know this but I don’t practice it.  I needed to actually get muscle memory build stuff.  I actually spent the first time listening and watching.  Now, I’m taking the time to actually build what the instructor is talking about.  This is important because sometimes you need to pause the video and experiment a few things.  When I do this, it really feels like it becomes apart of who I am and what I know.  I think all instructors should allow for this “light bulb” moments in learning.  
 
