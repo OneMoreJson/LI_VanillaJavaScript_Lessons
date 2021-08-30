@@ -1,5 +1,12 @@
 # Study JavaScript
 
+## Admin
+
+### 2021 07 13 1600 || Admin
+
+Updating all files onto a new computer
+
+-----------------------------------------------------------------------------
 ### 2021 02 16 : 1200 || UD 01 ReCh03
 Completed the Chapter 03 again.  I am ready to do the ToDo project.  However, I need to focus on school work before I continue.  
 
