@@ -1,5 +1,13 @@
 # Study JavaScript
 
+## Admin 
+
+### 2021 09 03 1600 || Updates
+
+Reworking the folder system on my local drive.  This will reflect how I have done with the “Learning Java” repo.  Instead of keeping the repo specifically tied to a college, LinkedIn Learning or Udemy course, I will combine projects that I think show both my learning progress and potential portfolio projects.  Note, I think I will take “worthy” projects and post them on my own website… things tend to get lost in the GH tangle.  However, I want to show anyone that I am continuing to advance my skills.  GH seems like a great place to demonstrate a working sketchbook of the notes and projects I have done through the years.  
+
+-----------------------------------------------------------------------------
+
 ## Admin
 
 ### 2021 07 13 1600 || Admin
