@@ -1,5 +1,21 @@
 # Study JavaScript
 
+## UD : Modern JS from the Beginning
+
+### 2021 09 15 || UD03 DOM
+
+Returning to a great Udemy course by Brad Traversy.  I got about twenty-five percent completed through this course before college started to get really involved.  I am returning to his discussion on the DOM.  The plan is to continue through the course (hopefully completing it before the end of the year).  I also plan to use this readme file to discuss the lessons (part of my notes) so I can retain the information.  I expect that I can use what he is instructing me to help further my website and skills.  So… the following are some of those notes:
+
+The DOM is the Document Object Model… the structure of an HTML document (Tags, Files and Folders).  
+
+The stud of the DOM is rather academic.  The practical understanding is extremely advantageous.  
+
+An application that is helpful in explaining how to traverse the DOM is a Task management system. NOTE: “JQuery can be a sledge hammer to kill a mosquito.”
+
+[Ten minutes today]
+
+-----------------------------------------------------------------------------
+
 ## Admin 
 
 ### 2021 09 03 1600 || Updates
