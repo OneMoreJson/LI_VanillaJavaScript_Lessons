@@ -1,5 +1,11 @@
 # Study JavaScript
 
+### 2021 10 08 || CodeUp
+
+Well, looks like I might do a coding bootcamp.  I am going through the intro application.  It really looks like they want you to be able to (1) look up how to do something and (2) copy and paste.  This will be interesting…
+
+-----------------------------------------------------------------------------
+
 ## UD : Modern JS from the Beginning
 
 ### 2021 09 15 || UD03 DOM
