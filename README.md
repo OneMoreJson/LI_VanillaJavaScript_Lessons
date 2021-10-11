@@ -1,5 +1,11 @@
 # Study JavaScript
 
+### 2021 10 10 || CodeUp Intro
+
+Completed the 45 exercises required to “prep” for the bootcamp.  Most were very easy.  The last problems introduced some stuff I haven’t worked with yet.  Still, you do almost everything these days through search engines and blog posts.  Funnier still, I found all the whole code on GH.  So, I’ll be posting my own version of how I completed the work here on GH as well.  
+
+-----------------------------------------------------------------------------
+
 ### 2021 10 08 || CodeUp
 
 Well, looks like I might do a coding bootcamp.  I am going through the intro application.  It really looks like they want you to be able to (1) look up how to do something and (2) copy and paste.  This will be interesting…
