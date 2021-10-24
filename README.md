@@ -1,5 +1,11 @@
 # Study JavaScript
 
+### 2021 10 24 || CodeUp 101
+
+Continuing the pre-work for the coding bootcamp.  I completed the forty-five problems.  They only want another five completed.  However, if I can, I would like to complete all 101.  Not sure I can on my own.  I know there is a GH with all the answers.  It might help.  However, it would be better for me to try on my own (at least at first).  If I consult the GH, I need to fully understand why they do what they do.  After all… C/P can get you only so far in programming.  This is about learning how and why.  Not about completing something to complete it.  
+
+-----------------------------------------------------------------------------
+
 ### 2021 10 10 || CodeUp Intro
 
 Completed the 45 exercises required to “prep” for the bootcamp.  Most were very easy.  The last problems introduced some stuff I haven’t worked with yet.  Still, you do almost everything these days through search engines and blog posts.  Funnier still, I found all the whole code on GH.  So, I’ll be posting my own version of how I completed the work here on GH as well.  
